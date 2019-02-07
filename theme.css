@@ -1,0 +1,12 @@
+tr {
+    text-align: center;
+    color: red;
+}
+
+table, th, td {
+    border: 1px solid black;
+    
+  }
+  .drink{
+      text-align: center;
+  }
